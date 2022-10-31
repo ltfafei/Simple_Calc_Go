@@ -15,3 +15,8 @@ golang编程学习，实现计算器加、减、乘、除、开方、取模运�
 `go build calc_project.go`
 
 ![image](https://user-images.githubusercontent.com/43526141/198680242-0a13c2ac-98c4-4e53-a83d-481f562332ad.png)
+
+
+具体文章分析思路：
+https://blog.csdn.net/qq_41490561/article/details/127585260?spm=1001.2014.3001.5501
+https://blog.csdn.net/qq_41490561/article/details/127593452?spm=1001.2014.3001.5501
